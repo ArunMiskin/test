@@ -1,3 +1,3 @@
 # test
 test fetch,pull
-and love git with git commands
+and love git with git love commands
